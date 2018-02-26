@@ -1,0 +1,4 @@
+def divide( a, b ):
+   result = a / float(b)
+   print arg1, "除以", arg2,"的结果是", result
+   return result;
